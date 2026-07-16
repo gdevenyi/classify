@@ -22,7 +22,7 @@ defaults:
 
 env:
   # BIC-MNI dependencies built from source, in order.
-  DEPS: "libminc EBTKS"
+  DEPS: "libminc EBTKS minc-tools"
   DEPS_PREFIX: /opt/bic-mni
 
 jobs:
